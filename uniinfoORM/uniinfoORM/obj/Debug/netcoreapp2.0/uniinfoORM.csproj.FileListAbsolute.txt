@@ -1,0 +1,11 @@
+c:\users\oz\source\repos\uniinfoORM\uniinfoORM\bin\Debug\netcoreapp2.0\uniinfoORM.deps.json
+c:\users\oz\source\repos\uniinfoORM\uniinfoORM\bin\Debug\netcoreapp2.0\uniinfoORM.runtimeconfig.json
+c:\users\oz\source\repos\uniinfoORM\uniinfoORM\bin\Debug\netcoreapp2.0\uniinfoORM.runtimeconfig.dev.json
+c:\users\oz\source\repos\uniinfoORM\uniinfoORM\bin\Debug\netcoreapp2.0\uniinfoORM.dll
+c:\users\oz\source\repos\uniinfoORM\uniinfoORM\obj\Debug\netcoreapp2.0\uniinfoORM.csprojResolveAssemblyReference.cache
+c:\users\oz\source\repos\uniinfoORM\uniinfoORM\obj\Debug\netcoreapp2.0\uniinfoORM.csproj.CoreCompileInputs.cache
+c:\users\oz\source\repos\uniinfoORM\uniinfoORM\obj\Debug\netcoreapp2.0\uniinfoORM.AssemblyInfoInputs.cache
+c:\users\oz\source\repos\uniinfoORM\uniinfoORM\obj\Debug\netcoreapp2.0\uniinfoORM.AssemblyInfo.cs
+c:\users\oz\source\repos\uniinfoORM\uniinfoORM\bin\Debug\netcoreapp2.0\uniinfoORM.pdb
+c:\users\oz\source\repos\uniinfoORM\uniinfoORM\obj\Debug\netcoreapp2.0\uniinfoORM.dll
+c:\users\oz\source\repos\uniinfoORM\uniinfoORM\obj\Debug\netcoreapp2.0\uniinfoORM.pdb
